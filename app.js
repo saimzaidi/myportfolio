@@ -85,10 +85,25 @@ myElement.addEventListener("click", function() {
 
 var myElement = document.getElementById("pro10");
 myElement.addEventListener("click", function() {
-  window.open("www.kleinkitch.com");
+  window.open("https://iridescence.agency");
 });
 
 var myElement = document.getElementById("pro11");
 myElement.addEventListener("click", function() {
-  window.open("https://iridescence.agency");
+  window.open("www.kleinkitch.com");
+});
+
+var myElement = document.getElementById("pro12");
+myElement.addEventListener("click", function() {
+  window.open("deals4fit.com");
+});
+
+var myElement = document.getElementById("pro13");
+myElement.addEventListener("click", function() {
+  window.open("amtradersraj.com");
+});
+
+var myElement = document.getElementById("pro14");
+myElement.addEventListener("click", function() {
+  window.open("www.danaosbornedesign.com");
 });
