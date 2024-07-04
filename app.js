@@ -75,5 +75,20 @@ myElement.addEventListener("click", function() {
 
 var myElement = document.getElementById("pro8");
 myElement.addEventListener("click", function() {
-  window.open("https://bonedappetite.qlogictechnologies.com/");
+  window.open("https://golessthan.com");
+});
+
+var myElement = document.getElementById("pro9");
+myElement.addEventListener("click", function() {
+  window.open("https://mlgproperties.es/");
+});
+
+var myElement = document.getElementById("pro10");
+myElement.addEventListener("click", function() {
+  window.open("www.kleinkitch.com");
+});
+
+var myElement = document.getElementById("pro11");
+myElement.addEventListener("click", function() {
+  window.open("https://iridescence.agency");
 });
