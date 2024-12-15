@@ -30,40 +30,40 @@ menu_item.forEach((item) => {
 
 var myElement = document.getElementById("pro1");
 myElement.addEventListener("click", function() {
-  window.open("https://marlonbrand.io/");
+  window.open("https://golessthan.com");
 });
 // PROJECT 2
 
 var myElement = document.getElementById("pro2");
 myElement.addEventListener("click", function() {
-  window.open("https://www.lindasegallanable.com/");
+  window.open("https://redux.mymoveday.com");
 });
 
 // PROJECT 3
 
 var myElement = document.getElementById("pro3");
 myElement.addEventListener("click", function() {
-  window.open("https://www.mlaestheticsv1.qlogictechnologies.com/");
+  window.open("https://indsupplies.ae/");
 });
 
 // PROJECT 4
 
 var myElement = document.getElementById("pro4");
 myElement.addEventListener("click", function() {
-  window.open("http://thewaffleaffair.com/");
+  window.open("https://studdle.co.uk/");
 });
 
 // PROJECT 5
 
 var myElement = document.getElementById("pro5");
 myElement.addEventListener("click", function() {
-  window.open("https://www.sarahmichelle.qlogictechnologies.com/");
+  window.open("https://adilhamid.com/");
 });
 // PROJECT 6
 
 var myElement = document.getElementById("pro6");
 myElement.addEventListener("click", function() {
-  window.open("https://dskroofing.qlogictechnologies.com/");
+  window.open("https://artificialgrass-birmingham.co.uk/");
 });
 // PROJECT 7
 
